@@ -3,7 +3,7 @@ package example
 import (
 	"context"
 	"fmt"
-	"github.com/quantumcycle/go-ignore-cov/example/hello"
+	"github.com/MatthiasWerning/go-ignore-cov/example/hello"
 	"log"
 )
 
